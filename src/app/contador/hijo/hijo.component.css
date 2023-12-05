@@ -1,9 +1,7 @@
-
-.buttons-contador{
+.btn-wrapper{
     display: flex;
-    gap: 40px;
     flex-flow: row wrap;
     text-align: center;
     justify-content: center;
-
+    gap: 40px;
 }
